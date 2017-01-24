@@ -69,3 +69,8 @@ a{
 .black900{
   background-color: #212121;
 }
+
+.sized{
+    max-height: 600px;
+    max-width: 450px;
+}
