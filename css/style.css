@@ -33,6 +33,11 @@ a{
   height: 300px;
 }
 
+.img-box{
+  max-height: 400px;
+  max-width: 400px;
+}
+
 .noto{
   font-family: 'Noto Serif', serif;
 }
